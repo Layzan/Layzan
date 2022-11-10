@@ -1,7 +1,7 @@
 ## Oi, eu sou a Layzan
 
 
-- 💼 &nbsp; Trabalhando como **Analista de Sistemas**
+- 💼 &nbsp; Trabalhando como **Analista de TI**
 - 🌱 &nbsp; Aprendendo mais sobre **DevOps**.
 
 ## 🚀 Minhas Skills
@@ -9,18 +9,21 @@
 **Aplicações e Dados**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql&logoColor=117AF7)
 
 
 **Utilidades**
 
   ![Jupyter Notebook](https://img.shields.io/badge/-jupyter%20Notebook-333333?style=flat&logo=jupyter)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=5747BF)
 
 **DevOps**
 
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=117AF7)
 
 
 **Ferramentas de Desenvolvimento**
@@ -31,8 +34,8 @@
 **Estou Estudando**
 
   ![Vagrant](https://img.shields.io/badge/-Vagrant-333333?style=flat&logo=vagrant&logoColor=117AF7)
-  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=117AF7)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes&logoColor=117AF7)
+  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=117AF7)
   
   
 ## ⭐ Informações sobre minha conta GitHub
