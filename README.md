@@ -1,7 +1,7 @@
 ## Oi, eu sou a Layzan
 
 
-- 💼 &nbsp; Trabalhando como **Analista de TI**
+- 💼 &nbsp; Trabalhando como **Analista de DevOps Júnior**
 - 🌱 &nbsp; Aprendendo mais sobre **DevOps**.
 
 ## 🚀 Minhas Skills
@@ -17,6 +17,7 @@
   ![Jupyter Notebook](https://img.shields.io/badge/-jupyter%20Notebook-333333?style=flat&logo=jupyter)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=5747BF)
+  ![Lens](https://img.shields.io/badge/-Lens-333333?style=flat&logo=lens&logoColor=117AF7)
 
 **DevOps**
 
@@ -24,7 +25,8 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=117AF7)
-
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes&logoColor=117AF7)
+  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=117AF7)
 
 **Ferramentas de Desenvolvimento**
   
@@ -33,9 +35,9 @@
  
 **Estou Estudando**
 
-  ![Vagrant](https://img.shields.io/badge/-Vagrant-333333?style=flat&logo=vagrant&logoColor=117AF7)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes&logoColor=117AF7)
-  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=117AF7)
+  ![AWS](https://img.shields.io/badge/AWS-gray?style=flat&logo=amazon-aws&logoColor=yellow)
+  
+  
   
   
 ## ⭐ Informações sobre minha conta GitHub
