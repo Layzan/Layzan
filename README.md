@@ -1,6 +1,7 @@
 ## Oi, eu sou a Layzan
 
 
+- 🤓 &nbsp; Falando um pouco sobre minha trajetória, tenho MBA em DevOps e SRE, sou graduada em Tecnologia em Mecatrônica Industrial, e atuo no mercado de Tecnologia desde 2020. Sou intusiasta de tecnlogia e de investimentos e espero poder contribuir com a comunidade.
 - 💼 &nbsp; Trabalhando como **Analista de DevOps Júnior**
 - 🌱 &nbsp; Aprendendo mais sobre **DevOps**.
 
