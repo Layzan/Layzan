@@ -10,8 +10,6 @@
 **Aplicações e Dados**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql&logoColor=117AF7)
-
 
 **Utilidades**
 
@@ -28,17 +26,17 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=117AF7)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes&logoColor=117AF7)
   ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=117AF7)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices&logoColor=FF9900)
+  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana&logoColor=FF9900)
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus&logoColor=FF9900)
 
 **Ferramentas de Desenvolvimento**
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=ff197c)
  
 **Estou Estudando**
 
-  ![AWS](https://img.shields.io/badge/AWS-gray?style=flat&logo=amazon-aws&logoColor=yellow)
-  
-  
+  ![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat&logo=argo&logoColor=EF7B4D)
   
   
 ## ⭐ Informações sobre minha conta GitHub
